@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Maharshi Patel",
+        "email": "mahar23p07@gmail.com",
+        "phone": "5485777499",
+        "education": {
+            "degree": "high_school",
+            "field_of_study": "IT",
+            "institution": "SOCET",
+            "graduation_year": "2020"
+        },
+        "work_experience": {
+            "job_title": "Backend developer",
+            "company_name": "ASOIT",
+            "years_of_experience": "2",
+            "key_responsibilities": "NodeJS"
+        }
+    },
+    {
+        "Full Name": "Maharshi Patel",
+        "Email": "mahar23p07@gmail.com",
+        "Phone Number": "5485777499",
+        "Highest Degree": "high_school",
+        "Field of Study": "IT",
+        "Institution Name": "SOCET",
+        "Year of Graduation": "2020",
+        "Previous Job Title": "Backend developer",
+        "Company Name": "ASOIT",
+        "Years of Experience": "2",
+        "Key Responsibilities": "NodeJS"
+    },
+    {
+        "name": "Maharshi Patel",
+        "email": "mahar23p07@gmail.com",
+        "phone": "5485777499",
+        "education": {
+            "degree": "high_school",
+            "field_of_study": "IT",
+            "institution": "SOCET",
+            "graduation_year": "1222"
+        },
+        "work_experience": {
+            "job_title": "Backend developer",
+            "company_name": "ASOIT",
+            "years_of_experience": "1",
+            "key_responsibilities": "565"
+        }
+    },
+    {
+        "Full Name": "Maharshi Patel",
+        "Email": "mahar23p07@gmail.com",
+        "Phone Number": "5485777499",
+        "Highest Degree": "high_school",
+        "Field of Study": "IT",
+        "Institution Name": "SOCET",
+        "Year of Graduation": "1222",
+        "Previous Job Title": "Backend developer",
+        "Company Name": "ASOIT",
+        "Years of Experience": "1",
+        "Key Responsibilities": "565"
+    }
+]
